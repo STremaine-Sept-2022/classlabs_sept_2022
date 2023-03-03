@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCalculator", "RoomCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicLoops", "BasicLoops\BasicLoops.csproj", "{390BF7CB-8E7A-41FD-9BF1-DBA8E302A12A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollingLab", "DiceRollingLab\DiceRollingLab.csproj", "{B44C7F76-CD2E-4D69-8824-B5BF15DAE759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicForLoop", "BasicForLoop\BasicForLoop.csproj", "{AA6D62FE-9BA9-45D2-AE7C-734237A8D5DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{390BF7CB-8E7A-41FD-9BF1-DBA8E302A12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{390BF7CB-8E7A-41FD-9BF1-DBA8E302A12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{390BF7CB-8E7A-41FD-9BF1-DBA8E302A12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44C7F76-CD2E-4D69-8824-B5BF15DAE759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44C7F76-CD2E-4D69-8824-B5BF15DAE759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44C7F76-CD2E-4D69-8824-B5BF15DAE759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44C7F76-CD2E-4D69-8824-B5BF15DAE759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6D62FE-9BA9-45D2-AE7C-734237A8D5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6D62FE-9BA9-45D2-AE7C-734237A8D5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6D62FE-9BA9-45D2-AE7C-734237A8D5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6D62FE-9BA9-45D2-AE7C-734237A8D5DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
